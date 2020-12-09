@@ -23,7 +23,7 @@ As imagens de referência para a criação da interface estão localizadas na pa
 
 **URL**: https://api.noverde-hmg.net/fakes
 **Method**: POST
-**Header**: Authentication: `Bearer yourcustomtoken`
+**Header**: Authorization: `Bearer yourcustomtoken`
 **Request**:
 ```json
 {
